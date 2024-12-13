@@ -1,4 +1,4 @@
-app = 'haga.dev'
+app = 'hagadev'
 primary_region = 'arn'
 
 [build]
